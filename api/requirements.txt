@@ -1,0 +1,7 @@
+python-multipart==0.0.20
+fastapi
+uvicorn
+jinja2
+mangum
+pydantic
+werkzeug==2.3.6
